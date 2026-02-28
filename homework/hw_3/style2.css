@@ -1,0 +1,22 @@
+.todo-list {
+    margin: 20px;
+    padding: 20px;
+    background-color: #d9eaf2;
+}
+
+.todo-list li {
+    margin: 5px 0;
+    padding: 10px;
+}
+
+.blue {
+    background-color: #9cc3d5;
+}
+
+.gray {
+    background-color: #cfcfcf;
+}
+
+.done {
+    text-decoration: line-through;
+}
